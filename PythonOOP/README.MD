@@ -5,12 +5,12 @@ This is my old project while learning Object Oriented Programming in Python.
 If you want to try this project, you need:
 * Python 3 
 * Clone or download repository
-* Open SnakeGame folder and execute '''main.py'''
+* Open SnakeGame folder and execute __main.py__
 
 ## Contents:
 * __SnakeGame__: A folder containing all Python program
     * __food.py__: Display food objects randomly
-    * __scoreboard.py__: Count score, reset score, and save the highest score in '''Highscore.txt'''
+    * __scoreboard.py__: Count score, reset score, and save the highest score in __Highscore.txt__
     * __snake.py__: Create snake object and the movement
     * __main.py__: Combine all object
 * __Result.JPG__: Result of this project

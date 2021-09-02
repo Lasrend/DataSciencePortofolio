@@ -7,8 +7,8 @@ A collection of my projects on data science to demonstrate the skill set, knowle
 
 ## In Progress:
 * Ongoing project:
-    * Regression problem using R and will be deployed with > streamlit
-    * Classification problem using Python and will be deployed in > GCP
+    * Regression problem using R and will be deployed with __streamlit__
+    * Classification problem using Python and will be deployed in __GCP__
     * NLP Project
     * Recommendation System Project
     * Time Series Project

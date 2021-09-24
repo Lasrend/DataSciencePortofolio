@@ -1,5 +1,5 @@
 # Mobil Bekas Website
-A scraping project that I take from __www.mobilbekas.co.id__
+A Web scraping project that I take from __www.mobilbekas.co.id__
 
 ## Contents:
 * __linkScraping.py__: Python program to collect all URL used car in __[Mobil Bekas Website](www.mobilbekas.co.id)__ and save into csv file (__linkForEachCar.csv__)

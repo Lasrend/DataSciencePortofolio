@@ -12,9 +12,9 @@ The impact of preventing customer churn is increasing customer retention rate. I
 
 
 ## Source:
-<sup>[1]</sup> https://www.investopedia.com/terms/e/ecommerce.asp
-<sup>[2]</sup> https://www.questionpro.com/blog/customer-churn/
-<sup>[3]</sup> https://www.superoffice.com/blog/reduce-customer-churn/
-<sup>[4]</sup> https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html
-<sup>[5]</sup> https://hbswk.hbs.edu/archive/the-economics-of-e-loyalty
+<sup>[1]</sup> https://www.investopedia.com/terms/e/ecommerce.asp <p>
+<sup>[2]</sup> https://www.questionpro.com/blog/customer-churn/ <p>
+<sup>[3]</sup> https://www.superoffice.com/blog/reduce-customer-churn/ <p>
+<sup>[4]</sup> https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html <p>
+<sup>[5]</sup> https://hbswk.hbs.edu/archive/the-economics-of-e-loyalty <p>
 
